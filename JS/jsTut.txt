@@ -1,0 +1,46 @@
+Tutorials for me ! :    Btw I'm going to do these in typescript :)
+
+	1. Variables and output 
+	2. Data types
+	3. Operators (All) and precedence and type conversion
+	4. Conditionals 
+	5. Loops
+	6. Objects (date,math,etc) (call apply bind)
+	7. Arrays 
+	8. Strings
+	9. RegEx
+	10. Sets and maps
+
+	 
+	11.Functions, Arrow function and this keyword
+	12. Scope and hoisting 
+	
+	// Async 
+	13. Closures
+	14. Asynchronous (callbacks, promises) 
+	15. async-await errors and event loop ... how actually it works.
+				
+	16. OOPS in js 
+	17. prototypes
+					 
+	18. strict mode 
+	19. modules 
+	20. WebApi's (Geolocatoin, worker, etc); (one vid for each);
+	
+	
+	21. Memory management
+	22. Design Patterns: Familiarize yourself with common design patterns like Singleton, Observer, Factory, and Module to solve recurring problems in a structured way.
+	
+	23. Bundlers and build tools 
+	24. Package managers
+	25. module loaders
+	26. Functional Reactive Programming 
+	27. Web assembly
+	
+	
+	28. Dom 
+	29. Bom
+	30. Canvas
+	
+	
+	

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        div {
+            min-width: 100px;
+            min-height: 100px;
+            border: 1px solid black;
+            padding: 30px;
+        }
+
+        #grandParent {
+            margin-top: 5rem;
+            max-height: 600px;
+            max-width: 600px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <button id="button">Click me!</button>
+    </div>
+
+    <div id="grandParent">
+        <div id="parentEl">
+            <div id="child"></div>
+        </div>
+    </div>
+
+    <div>
+        <input type="text" placeholder="Enter a value" id="inputText">
+    </div>
+    <!-- <script src="hoisting.js"></script> -->
+    <!-- <script src="lexicalScope.js"></script> -->
+    <!-- <script src="closures.js"></script> -->
+    <!-- <script src="del.js"></script> -->
+    <!-- <script src="promise.js"></script> -->
+    <!-- <script src="this.js"></script> -->
+    <!-- <script src="events1.js"></script> -->
+    <script src="debouncing.js"></script>
+</body>
+
+</html>
